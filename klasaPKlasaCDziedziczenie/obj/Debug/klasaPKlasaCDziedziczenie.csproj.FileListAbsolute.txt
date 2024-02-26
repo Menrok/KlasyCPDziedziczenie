@@ -1,0 +1,14 @@
+C:\Users\PH\Desktop\PROJEKTY\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\bin\Debug\klasaPKlasaCDziedziczenie.exe.config
+C:\Users\PH\Desktop\PROJEKTY\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\bin\Debug\klasaPKlasaCDziedziczenie.exe
+C:\Users\PH\Desktop\PROJEKTY\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\bin\Debug\klasaPKlasaCDziedziczenie.pdb
+C:\Users\PH\Desktop\PROJEKTY\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.csproj.AssemblyReference.cache
+C:\Users\PH\Desktop\PROJEKTY\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\PH\Desktop\PROJEKTY\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.exe
+C:\Users\PH\Desktop\PROJEKTY\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.pdb
+C:\Users\PH\Desktop\C#\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\bin\Debug\klasaPKlasaCDziedziczenie.exe.config
+C:\Users\PH\Desktop\C#\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\bin\Debug\klasaPKlasaCDziedziczenie.exe
+C:\Users\PH\Desktop\C#\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\bin\Debug\klasaPKlasaCDziedziczenie.pdb
+C:\Users\PH\Desktop\C#\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.csproj.AssemblyReference.cache
+C:\Users\PH\Desktop\C#\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\PH\Desktop\C#\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.exe
+C:\Users\PH\Desktop\C#\klasaPKlasaCDziedziczenie\klasaPKlasaCDziedziczenie\obj\Debug\klasaPKlasaCDziedziczenie.pdb
